@@ -12,9 +12,10 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "polymer": "Polymer/polymer#^0.5.1"
+    "polymer": "Polymer/polymer#^1.1.0"
   },
   "devDependencies": {
-    "web-component-tester": "Polymer/web-component-tester#^2.0.0-rc1"
+    "iron-component-page": "PolymerElements/iron-component-page#~1.0.5",
+    "web-component-tester": "Polymer/web-component-tester#~3.3.21"
   }
 }
